@@ -10,4 +10,7 @@ with col2:
     content = '''My name is Emily Waller and I am a rising junior studying Accounting and Data Science at Southern 
     Methodist University. Here, I am also a member of the Division I Women's Track and Field Program, as well as the 
     VP of Alumni Relations for the Alpha Kappa Psi Business Fraternity'''
-    st.write(content)
+    st.info(content)
+
+content2 = '''Below you can find some of the apps I have built in Python. Feel free to contact me!'''
+st.write(content2)
